@@ -1,0 +1,25 @@
+{
+  "name": "file_classification",
+  "version": "0.0.1",
+  "description": "file classification tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "file",
+    "classification",
+    "tool",
+    "fs"
+  ],
+  "author": "ikasumi_wt",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "fs-extra": "^0.30.0"
+  }
+}
